@@ -75,4 +75,11 @@ En el archivo **script.js** se manejan las siguientes funciones y métodos:
 * Mostrar los datos confirmados en la misma página en lugar de un `confirm()`.
 * Cambiar el recargado de página por un mensaje de éxito.
 
+---
+
+**Autor:** Jhon Alejandro Correal Martinez  
+**Asignatura:** Programación III  
+**Programa:** Tecnología en Desarrollo de Software – Facultad de Sistemas  
+**Institución:** Escuela Tecnológica Instituto Técnico Central 
+
 
